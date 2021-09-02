@@ -1,0 +1,96 @@
+[2021-07-13 15:19:16,646] (INFO) 127.0.0.1
+[2021-07-13 15:19:16,646] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:19:16,647] (INFO) <class 'type'>
+[2021-07-13 15:19:16,649] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:37: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serviceInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:31:17,069] (INFO) 127.0.0.1
+[2021-07-13 15:31:17,070] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:31:17,070] (INFO) type
+[2021-07-13 15:31:17,071] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:34:01,093] (INFO) 127.0.0.1
+[2021-07-13 15:34:01,093] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:34:01,094] (INFO) type
+[2021-07-13 15:34:01,095] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:36:10,625] (INFO) 127.0.0.1
+[2021-07-13 15:36:10,626] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:36:10,626] (INFO) type
+[2021-07-13 15:36:10,627] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:37:05,973] (INFO) 127.0.0.1
+[2021-07-13 15:37:05,973] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:37:05,973] (INFO) type
+[2021-07-13 15:37:05,974] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:38:22,034] (INFO) 127.0.0.1
+[2021-07-13 15:38:22,034] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:38:22,034] (INFO) type
+[2021-07-13 15:38:22,036] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:40:51,327] (INFO) 127.0.0.1
+[2021-07-13 15:40:51,327] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:40:51,328] (INFO) type
+[2021-07-13 15:40:51,329] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:43:31,589] (INFO) 127.0.0.1
+[2021-07-13 15:43:31,589] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:43:31,590] (INFO) type
+[2021-07-13 15:43:31,591] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:44:30,563] (INFO) 127.0.0.1
+[2021-07-13 15:44:30,563] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:44:30,564] (INFO) type
+[2021-07-13 15:44:30,565] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:45:15,531] (INFO) 127.0.0.1
+[2021-07-13 15:45:15,531] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:45:15,531] (INFO) type
+[2021-07-13 15:45:15,532] (WARNING) D:/program/TelegramWatchDog/src/watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:46:50,699] (INFO) 127.0.0.1
+[2021-07-13 15:46:50,699] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:46:50,699] (INFO) type
+[2021-07-13 15:46:50,700] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:47:50,780] (INFO) 127.0.0.1
+[2021-07-13 15:47:50,781] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:47:50,781] (INFO) type
+[2021-07-13 15:47:50,782] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:53:26,626] (INFO) 127.0.0.1
+[2021-07-13 15:53:26,626] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:53:26,626] (INFO) type
+[2021-07-13 15:53:26,627] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:55:35,017] (INFO) 127.0.0.1
+[2021-07-13 15:55:35,017] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:55:35,017] (INFO) type
+[2021-07-13 15:55:35,017] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:55:54,100] (INFO) 127.0.0.1
+[2021-07-13 15:55:54,100] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:55:54,101] (INFO) type
+[2021-07-13 15:55:54,101] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-07-13 15:55:59,432] (INFO) 127.0.0.1
+[2021-07-13 15:55:59,432] (INFO) 1793814419:AAEQBMQq9YaBxLg23NQ-g3NXSuMAhWIrSjo
+[2021-07-13 15:55:59,432] (INFO) type
+[2021-07-13 15:55:59,433] (WARNING) ./watchDogTelegramService.py:39: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+

@@ -1,0 +1,48 @@
+[2021-08-30 08:57:56,323] p1324 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:57:59,241] p12772 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:02,408] p10640 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:08,936] p7092 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:10,746] p3324 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:14,031] p14944 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:21,750] p16232 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:24,597] p15792 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:25,537] p16128 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:28,992] p16468 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:34,924] p18088 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:35,649] p17988 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:38,300] p18140 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:42,841] p1588 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:58:51,418] p5604 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-30 08:59:09,332] p19252 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+

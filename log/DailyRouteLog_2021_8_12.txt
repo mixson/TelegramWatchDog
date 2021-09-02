@@ -1,0 +1,21 @@
+[2021-08-12 11:50:12,553] p11188 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-12 11:50:16,025] p11376 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-12 11:50:21,223] p11788 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-12 11:50:30,275] p14916 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-12 11:50:46,892] p5536 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-12 11:51:19,397] p936 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
+[2021-08-12 11:52:24,557] p14840 {D:\Software\Programming_Software\Python\lib\warnings.py:110} WARNING - ./watchDogTelegramService.py:40: TelegramDeprecationWarning: Old Handler API is deprecated - see https://git.io/fxJuV for details
+  updater = Updater(token=serverInfo.botTelegramKey, use_context=False)
+
